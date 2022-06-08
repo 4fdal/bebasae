@@ -41,3 +41,5 @@
 17. Perediksi Saham
 18. Cara Kerja Aplikasi Airdrop
 19. SSH dengan tampilian GUI pada website
+20. Gunakan Api Payment Gateway Prabayar
+21. Gunakan Api Sending Email
